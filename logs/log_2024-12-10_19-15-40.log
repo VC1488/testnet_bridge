@@ -1,0 +1,3 @@
+[31m12-10 19:15 | ERROR  | 0xc1ac0b071827b88e07f633ec99a0de81155d3f87df035b61a7e67479bcb2e9ef | Error processing wallet 0xc1ac0b071827b88e07f633ec99a0de81155d3f87df035b61a7e67479bcb2e9ef: tuple index out of range[0m
+[31m12-10 19:15 | ERROR  | 0x9db22036818049b072547c741a4cc6d24a2506938542c76584d4276ef7cb721c | Error processing wallet 0x9db22036818049b072547c741a4cc6d24a2506938542c76584d4276ef7cb721c: tuple index out of range[0m
+[32m12-10 19:15 | INFO   | unknown | All swaps completed.[0m
